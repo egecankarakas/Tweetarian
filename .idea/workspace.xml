@@ -16,8 +16,9 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/untitled$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1429209987591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$try3.coverage" NAME="try3 Coverage Results" MODIFIED="1427127258172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1430415585442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1430490560730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$turkcellData.coverage" NAME="turkcellData Coverage Results" MODIFIED="1428434434981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$deneme2.coverage" NAME="deneme2 Coverage Results" MODIFIED="1430494380667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1429200623514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -69,16 +70,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deneme.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="deneme.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deneme.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="5.580097" vertical-offset="200" max-vertical-offset="3213">
-              <caret line="147" column="12" selection-start-line="147" selection-start-column="12" selection-end-line="147" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2262" max-vertical-offset="3213">
+              <caret line="163" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="183" selection-end-column="55" />
               <folding>
                 <element signature="e#79#122#0" expanded="true" />
                 <marker date="1430415582235" expanded="true" signature="656:685" placeholder="DROP TABLE I..." />
                 <marker date="1430415582235" expanded="true" signature="691:1257" placeholder="CREATE TABLE..twitter3..." />
                 <marker date="1430415582235" expanded="true" signature="5264:5351" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deneme2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deneme2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0136056" vertical-offset="2483" max-vertical-offset="2924">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="e#79#122#0" expanded="true" />
+                <marker date="1430494471248" expanded="true" signature="655:683" placeholder="DROP TABLE I..." />
+                <marker date="1430494471248" expanded="true" signature="689:1213" placeholder="CREATE TABLE..twitter..." />
+                <marker date="1430494471248" expanded="true" signature="4886:4966" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
@@ -97,7 +113,7 @@
       <file leaf-file-name="turkcellData.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/turkcellData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="643" max-vertical-offset="1139">
+            <state vertical-scroll-proportion="0.0" vertical-offset="711" max-vertical-offset="1139">
               <caret line="45" column="0" selection-start-line="44" selection-start-column="12" selection-end-line="45" selection-end-column="0" />
               <folding>
                 <element signature="e#26#37#0" expanded="true" />
@@ -112,16 +128,6 @@
                 <marker date="1429115064060" expanded="true" signature="1811:1850" placeholder="INSERT INTO ..." />
                 <marker date="1429115064060" expanded="true" signature="1927:1973" placeholder="INSERT INTO ..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_sqlite3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1442825926/_sqlite3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2193" max-vertical-offset="17833">
-              <caret line="133" column="41" selection-start-line="133" selection-start-column="41" selection-end-line="133" selection-end-column="41" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -166,6 +172,7 @@
         <option value="$PROJECT_DIR$/example2.py" />
         <option value="$PROJECT_DIR$/example1.py" />
         <option value="$PROJECT_DIR$/deneme.py" />
+        <option value="$PROJECT_DIR$/deneme2.py" />
       </list>
     </option>
   </component>
@@ -173,7 +180,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1536" />
+    <option name="width" value="1535" />
     <option name="height" value="826" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -246,27 +253,7 @@
       <recent name="C:\Users\Egecan-PC\PycharmProjects\untitled" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.deneme">
-    <configuration default="false" name="try3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.deneme2">
     <configuration default="false" name="deneme" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,6 +330,26 @@
       <module name="untitled" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="deneme2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deneme2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -538,19 +545,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.try3" />
-      <item index="1" class="java.lang.String" itemvalue="Python.deneme" />
-      <item index="2" class="java.lang.String" itemvalue="Python.turkcellData" />
-      <item index="3" class="java.lang.String" itemvalue="Python.example1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.example2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.deneme" />
+      <item index="1" class="java.lang.String" itemvalue="Python.turkcellData" />
+      <item index="2" class="java.lang.String" itemvalue="Python.example1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.example2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.deneme2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.deneme" />
-        <item index="1" class="java.lang.String" itemvalue="Python.example1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.example2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.turkcellData" />
-        <item index="4" class="java.lang.String" itemvalue="Python.try3" />
+        <item index="0" class="java.lang.String" itemvalue="Python.deneme2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.deneme" />
+        <item index="2" class="java.lang.String" itemvalue="Python.example1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.example2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.turkcellData" />
       </list>
     </recent_temporary>
   </component>
@@ -568,8 +575,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1536" height="826" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1535" height="826" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -579,7 +586,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34588563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22697368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22712311" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -616,19 +623,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/example1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1429209846575" expanded="true" signature="128:175" placeholder="SELECT creat..twitter2..." />
-            <marker date="1429209846575" expanded="true" signature="128:187" placeholder="SELECT creat..twitter2..." />
-            <marker date="1429209846575" expanded="true" signature="128:189" placeholder="SELECT creat..twitter2..." />
-            <marker date="1429209846575" expanded="true" signature="128:190" placeholder="SELECT creat..twitter2..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="731">
@@ -1048,14 +1042,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/try3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
@@ -1080,22 +1066,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/turkcellData.py">
+    <entry file="file://$PROJECT_DIR$/example1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="643" max-vertical-offset="1139">
-          <caret line="45" column="0" selection-start-line="44" selection-start-column="12" selection-end-line="45" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#26#37#0" expanded="true" />
-            <marker date="1429115064060" expanded="true" signature="278:299" placeholder="DROP TABLE I..." />
-            <marker date="1429115064060" expanded="true" signature="278:306" placeholder="DROP TABLE I..." />
-            <marker date="1429115064060" expanded="true" signature="316:459" placeholder="CREATE TABLE..Cars..." />
-            <marker date="1429115064060" expanded="true" signature="316:2075" placeholder="CREATE TABLE..Cars..." />
-            <marker date="1429115064060" expanded="true" signature="490:646" placeholder="CREATE TABLE..twitter..." />
-            <marker date="1429115064060" expanded="true" signature="1308:1349" placeholder="SELECT Name,..Cars..." />
-            <marker date="1429115064060" expanded="true" signature="1389:1459" placeholder="INSERT INTO ..." />
-            <marker date="1429115064060" expanded="true" signature="1634:1680" placeholder="INSERT INTO ..." />
-            <marker date="1429115064060" expanded="true" signature="1811:1850" placeholder="INSERT INTO ..." />
-            <marker date="1429115064060" expanded="true" signature="1927:1973" placeholder="INSERT INTO ..." />
+            <marker date="1429209846575" expanded="true" signature="128:175" placeholder="SELECT creat..twitter2..." />
+            <marker date="1429209846575" expanded="true" signature="128:187" placeholder="SELECT creat..twitter2..." />
+            <marker date="1429209846575" expanded="true" signature="128:189" placeholder="SELECT creat..twitter2..." />
+            <marker date="1429209846575" expanded="true" signature="128:190" placeholder="SELECT creat..twitter2..." />
           </folding>
         </state>
       </provider>
@@ -1118,28 +1097,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example1.py">
+    <entry file="file://$PROJECT_DIR$/try2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turkcellData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="643" max-vertical-offset="1139">
+          <caret line="45" column="0" selection-start-line="44" selection-start-column="12" selection-end-line="45" selection-end-column="0" />
           <folding>
-            <marker date="1429209846575" expanded="true" signature="128:175" placeholder="SELECT creat..twitter2..." />
-            <marker date="1429209846575" expanded="true" signature="128:187" placeholder="SELECT creat..twitter2..." />
-            <marker date="1429209846575" expanded="true" signature="128:189" placeholder="SELECT creat..twitter2..." />
-            <marker date="1429209846575" expanded="true" signature="128:190" placeholder="SELECT creat..twitter2..." />
+            <element signature="e#26#37#0" expanded="true" />
+            <marker date="1429115064060" expanded="true" signature="278:299" placeholder="DROP TABLE I..." />
+            <marker date="1429115064060" expanded="true" signature="278:306" placeholder="DROP TABLE I..." />
+            <marker date="1429115064060" expanded="true" signature="316:459" placeholder="CREATE TABLE..Cars..." />
+            <marker date="1429115064060" expanded="true" signature="316:2075" placeholder="CREATE TABLE..Cars..." />
+            <marker date="1429115064060" expanded="true" signature="490:646" placeholder="CREATE TABLE..twitter..." />
+            <marker date="1429115064060" expanded="true" signature="1308:1349" placeholder="SELECT Name,..Cars..." />
+            <marker date="1429115064060" expanded="true" signature="1389:1459" placeholder="INSERT INTO ..." />
+            <marker date="1429115064060" expanded="true" signature="1634:1680" placeholder="INSERT INTO ..." />
+            <marker date="1429115064060" expanded="true" signature="1811:1850" placeholder="INSERT INTO ..." />
+            <marker date="1429115064060" expanded="true" signature="1927:1973" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/deneme.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.580097" vertical-offset="200" max-vertical-offset="3213">
-          <caret line="147" column="12" selection-start-line="147" selection-start-column="12" selection-end-line="147" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2772" max-vertical-offset="3213">
+          <caret line="163" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="183" selection-end-column="55" />
           <folding>
             <element signature="e#79#122#0" expanded="true" />
             <marker date="1430415582235" expanded="true" signature="656:685" placeholder="DROP TABLE I..." />
             <marker date="1430415582235" expanded="true" signature="691:1257" placeholder="CREATE TABLE..twitter3..." />
             <marker date="1430415582235" expanded="true" signature="5264:5351" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deneme2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0136056" vertical-offset="2483" max-vertical-offset="2924">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#79#122#0" expanded="true" />
+            <marker date="1430494471248" expanded="true" signature="655:683" placeholder="DROP TABLE I..." />
+            <marker date="1430494471248" expanded="true" signature="689:1213" placeholder="CREATE TABLE..twitter..." />
+            <marker date="1430494471248" expanded="true" signature="4886:4966" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
